@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on �Ĵ���ѧ Ӧ����ѧѧ��</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on �Ĵ���ѧ Ӧ����ѧѧ��</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Team Task</title>
+      <link>/2019/05/team-task/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/team-task/</guid>
+      <description>  https://shimo.im/sheets/33AxUS3SQCoyoPG7/ 「Team Task」  What we have done  Made a Shimo groupe: Made a github group:  第一章 第一节  BP PPT Website
+  </description>
+    </item>
+    
+    <item>
+      <title>Useful Website</title>
+      <link>/2019/05/useful-website/</link>
+      <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/useful-website/</guid>
+      <description>The 5th China College Students’ “Internet+” Innovation and Entrepreneurship Competition
+BRIYES Blog
+SCU Internation Office
+Belt and Road Portal
+</description>
+    </item>
+    
+  </channel>
+</rss>
